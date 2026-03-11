@@ -1,1 +1,1 @@
-# square-animation-assignment-group-3
+# Square-animation-assignment-group-3
